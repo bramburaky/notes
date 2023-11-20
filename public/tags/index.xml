@@ -1,29 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on mediumish-gohugo-theme</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on mediumish-gohugo-theme</description>
+    <title>Tags on Notes</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>drink</title>
-      <link>http://example.org/tags/drink/</link>
-      <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
-      
-      <guid>http://example.org/tags/drink/</guid>
-      <description></description>
-    </item>
+    <language>en-US</language>
     
-    <item>
-      <title>interesting</title>
-      <link>http://example.org/tags/interesting/</link>
-      <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
-      
-      <guid>http://example.org/tags/interesting/</guid>
-      <description></description>
-    </item>
+	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
